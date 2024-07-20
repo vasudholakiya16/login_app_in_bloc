@@ -42,7 +42,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyDSkiUOWvJqLn5Ebj2T3u_uAtO_Y6NPCOs',
-    appId: '1:258078266017:web:28b4020e34a3b6be4f96e0',
+    appId: '1:258078266017:web:2483f5a10ab806174f96e0',
     messagingSenderId: '258078266017',
     projectId: 'vasupatel',
     authDomain: 'vasupatel.firebaseapp.com',
@@ -83,4 +83,5 @@ class DefaultFirebaseOptions {
     authDomain: 'vasupatel.firebaseapp.com',
     storageBucket: 'vasupatel.appspot.com',
   );
+
 }
