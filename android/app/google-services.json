@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "258078266017",
+    "project_id": "vasupatel",
+    "storage_bucket": "vasupatel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258078266017:android:954dbc287df943934f96e0",
+        "android_client_info": {
+          "package_name": "com.example.card_powsome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7gP_2N2B0m_UJ3OU9UuDCVjthwXEtfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258078266017:android:3fd5b12468252bd64f96e0",
+        "android_client_info": {
+          "package_name": "com.example.login_app_in_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7gP_2N2B0m_UJ3OU9UuDCVjthwXEtfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258078266017:android:97344017d1a288634f96e0",
+        "android_client_info": {
+          "package_name": "com.example.untitled5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7gP_2N2B0m_UJ3OU9UuDCVjthwXEtfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
